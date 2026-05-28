@@ -1,0 +1,32 @@
+aid: waifu-pics
+name: Waifu.pics
+description: "Image sharing platform for anime images"
+url: https://waifu.pics/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: Waifu.pics
+    description: "Image sharing platform for anime images"
+    humanURL: https://waifu.pics/docs
+    baseURL: https://waifu.pics/docs
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://waifu.pics/docs
+common:
+  - type: Website
+    url: https://waifu.pics/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
