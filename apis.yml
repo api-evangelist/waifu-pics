@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://waifu.pics/docs
 common:
+  - type: DomainSecurity
+    url: security/waifu-pics-domain-security.yml
   - type: Website
     url: https://waifu.pics/docs
   - type: PublicAPIsListing
