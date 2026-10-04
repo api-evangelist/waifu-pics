@@ -41,7 +41,6 @@ apis:
   - name: Waifu.pics
     description: "Image sharing platform for anime images"
     humanURL: https://waifu.pics/docs
-    baseURL: https://waifu.pics/docs
     tags:
       - Anime
     properties:
